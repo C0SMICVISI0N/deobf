@@ -6,7 +6,7 @@
 	return(
 		function(Za,Pt,xa,da,ua,et,at,Ht,Sa,Va,rt,Qa,wa,Ot,za,Ta,ot,Ya,fa,ta,ga,it,ja,vt,La,Ca,Aa,It,ya,ka,Ba,Fa,ct,Wt,pa,Ga,na,ha,Ja,Xa,Kt,ma,Ut,Da,Ra,qa,la,o,v,W)
 			
-			print(Za,Pt,xa,da,ua,et,at,Ht,Sa,Va,rt,Qa,wa,Ot,za,Ta,ot,Ya,fa,ta,ga,it,ja,vt,La,Ca,Aa,It,ya,ka,Ba,Fa,ct,Wt,pa,Ga,na,ha,Ja,Xa,Kt,ma,Ut,Da,Ra,qa,la,o,v,W)
+			--print(Za,Pt,xa,da,ua,et,at,Ht,Sa,Va,rt,Qa,wa,Ot,za,Ta,ot,Ya,fa,ta,ga,it,ja,vt,La,Ca,Aa,It,ya,ka,Ba,Fa,ct,Wt,pa,Ga,na,ha,Ja,Xa,Kt,ma,Ut,Da,Ra,qa,la,o,v,W)
 		
 			local bt=1;
 			local O,e,A=nil,nil,(nil);
